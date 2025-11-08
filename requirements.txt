@@ -1,0 +1,13 @@
+customtkinter
+mediapipe
+opencv-python
+sounddevice
+vosk
+openai
+requests
+jsonschema
+PyPDF2
+threading
+queue
+math
+Pillow
